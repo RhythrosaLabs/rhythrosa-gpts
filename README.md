@@ -9,6 +9,9 @@ A collection of links to our public GPTs
 ## brAInstormerGPT: A creative genius at automating unique projects.
 [brAInstormerGPT](https://chat.openai.com/g/g-ckN05gmuc-brainstormergpt)
 
+## Creative Font Maker: Generates full-screen letter images. 
+[Creative Font Maker](https://chat.openai.com/g/g-2Tw2vhAvl-creative-font-maker)
+
 ## ASCII GPT: ASCII artist creating art from user-specified objects. 
 [ASCII GPT](https://chat.openai.com/g/g-yMoxlqsxP-ascii-artist)
 
