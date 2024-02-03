@@ -15,4 +15,5 @@ A collection of links to our public GPTs
 ## MIDI Melody Maker: Converts images into MIDI songs based on their mood and theme.
 [MIDI Melody Maker](https://chat.openai.com/g/g-sfF6Le1PL-midi-melody-vision)
 
-
+## Pi Composer: Generates Sonic Pi code for any musical idea.
+[Pi Composer](https://chat.openai.com/g/g-NLrTUATme-pi-composer)
