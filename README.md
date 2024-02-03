@@ -1,5 +1,4 @@
-
-# rhythrosa-gpts A collection of links to our public GPTs
+A collection of links to our public GPTs
 
 ## Project Navigator: An autonomous expert in complex projects.
 [Project Navigator](https://chat.openai.com/g/g-rxXpOzQvb-project-navigator)
