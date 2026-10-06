@@ -25,4 +25,10 @@ A collection of links to our public GPTs
 ## GUI GPT: Generates sleek GUI designs and corresponding Python code.
 [GUI GPT](https://chat.openai.com/g/g-jw0amxi9Q-gui-gpt)
 
+## 💛 Support
 
+If this project is useful to you, consider supporting development:
+
+👉 [Donate via PayPal](https://paypal.me/noodlebake) — @noodlebake
+
+🌐 [Portfolio: rhythrosalabs.github.io](https://rhythrosalabs.github.io) (more apps, music and sound design)
